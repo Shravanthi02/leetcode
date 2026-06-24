@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [1185-day-of-the-week](https://github.com/Shravanthi02/leetcode/tree/master/1185-day-of-the-week) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shravanthi02/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
 | ------- |
