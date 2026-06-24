@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [1185-day-of-the-week](https://github.com/Shravanthi02/leetcode/tree/master/1185-day-of-the-week) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shravanthi02/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shravanthi02/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shravanthi02/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3908-valid-digit-number](https://github.com/Shravanthi02/leetcode/tree/master/3908-valid-digit-number) |
 ## Recursion
@@ -76,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Shravanthi02/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Shravanthi02/leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
