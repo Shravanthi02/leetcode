@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Shravanthi02/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/Shravanthi02/leetcode/tree/master/1929-concatenation-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shravanthi02/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Shravanthi02/leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shravanthi02/leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Shravanthi02/leetcode/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shravanthi02/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
