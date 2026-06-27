@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shravanthi02/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Shravanthi02/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [1185-day-of-the-week](https://github.com/Shravanthi02/leetcode/tree/master/1185-day-of-the-week) |
 | [1952-three-divisors](https://github.com/Shravanthi02/leetcode/tree/master/1952-three-divisors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Shravanthi02/leetcode/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
