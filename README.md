@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shravanthi02/leetcode/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/Shravanthi02/leetcode/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/Shravanthi02/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -66,9 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shravanthi02/leetcode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/Shravanthi02/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Shravanthi02/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Shravanthi02/leetcode/tree/master/0389-find-the-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shravanthi02/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Shravanthi02/leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
