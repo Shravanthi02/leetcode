@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [1185-day-of-the-week](https://github.com/Shravanthi02/leetcode/tree/master/1185-day-of-the-week) |
+| [1952-three-divisors](https://github.com/Shravanthi02/leetcode/tree/master/1952-three-divisors) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shravanthi02/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shravanthi02/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shravanthi02/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shravanthi02/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Shravanthi02/leetcode/tree/master/3731-find-missing-elements) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shravanthi02/leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shravanthi02/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
