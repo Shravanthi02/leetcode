@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shravanthi02/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shravanthi02/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shravanthi02/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Shravanthi02/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Shravanthi02/leetcode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Shravanthi02/leetcode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [1185-day-of-the-week](https://github.com/Shravanthi02/leetcode/tree/master/1185-day-of-the-week) |
 | [1952-three-divisors](https://github.com/Shravanthi02/leetcode/tree/master/1952-three-divisors) |
