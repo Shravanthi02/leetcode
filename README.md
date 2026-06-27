@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shravanthi02/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Shravanthi02/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shravanthi02/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Shravanthi02/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shravanthi02/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shravanthi02/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shravanthi02/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shravanthi02/leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [1185-day-of-the-week](https://github.com/Shravanthi02/leetcode/tree/master/1185-day-of-the-week) |
 | [1952-three-divisors](https://github.com/Shravanthi02/leetcode/tree/master/1952-three-divisors) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shravanthi02/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shravanthi02/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shravanthi02/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -92,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shravanthi02/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shravanthi02/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shravanthi02/leetcode/tree/master/3536-maximum-product-of-two-digits) |
