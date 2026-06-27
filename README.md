@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Shravanthi02/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/Shravanthi02/leetcode/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
