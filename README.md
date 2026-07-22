@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Shravanthi02/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shravanthi02/leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Shravanthi02/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [1185-day-of-the-week](https://github.com/Shravanthi02/leetcode/tree/master/1185-day-of-the-week) |
 | [1952-three-divisors](https://github.com/Shravanthi02/leetcode/tree/master/1952-three-divisors) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shravanthi02/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shravanthi02/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Shravanthi02/leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
