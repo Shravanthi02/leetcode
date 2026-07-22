@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/Shravanthi02/leetcode/tree/master/0233-number-of-digit-one) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shravanthi02/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shravanthi02/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shravanthi02/leetcode/tree/master/0066-plus-one) |
+| [0233-number-of-digit-one](https://github.com/Shravanthi02/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shravanthi02/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
+| [0233-number-of-digit-one](https://github.com/Shravanthi02/leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Shravanthi02/leetcode/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
