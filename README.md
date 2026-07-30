@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Shravanthi02/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Shravanthi02/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/Shravanthi02/leetcode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Shravanthi02/leetcode/tree/master/0326-power-of-three) |
