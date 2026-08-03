@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shravanthi02/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shravanthi02/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shravanthi02/leetcode/tree/master/0067-add-binary) |
 | [0233-number-of-digit-one](https://github.com/Shravanthi02/leetcode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shravanthi02/leetcode/tree/master/0326-power-of-three) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shravanthi02/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shravanthi02/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shravanthi02/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shravanthi02/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -118,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shravanthi02/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shravanthi02/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shravanthi02/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Shravanthi02/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Shravanthi02/leetcode/tree/master/0709-to-lower-case) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shravanthi02/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Shravanthi02/leetcode/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shravanthi02/leetcode/tree/master/3925-concatenate-array-with-reverse) |
