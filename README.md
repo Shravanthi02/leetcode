@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shravanthi02/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/Shravanthi02/leetcode/tree/master/0233-number-of-digit-one) |
+| [0877-stone-game](https://github.com/Shravanthi02/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shravanthi02/leetcode/tree/master/1406-stone-game-iii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shravanthi02/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shravanthi02/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shravanthi02/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shravanthi02/leetcode/tree/master/0877-stone-game) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Shravanthi02/leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1406-stone-game-iii](https://github.com/Shravanthi02/leetcode/tree/master/1406-stone-game-iii) |
 | [1929-concatenation-of-array](https://github.com/Shravanthi02/leetcode/tree/master/1929-concatenation-of-array) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Shravanthi02/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shravanthi02/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shravanthi02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shravanthi02/leetcode/tree/master/0877-stone-game) |
 | [1185-day-of-the-week](https://github.com/Shravanthi02/leetcode/tree/master/1185-day-of-the-week) |
 | [1406-stone-game-iii](https://github.com/Shravanthi02/leetcode/tree/master/1406-stone-game-iii) |
 | [1952-three-divisors](https://github.com/Shravanthi02/leetcode/tree/master/1952-three-divisors) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Shravanthi02/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shravanthi02/leetcode/tree/master/1406-stone-game-iii) |
 ## String Matching
 |  |
@@ -224,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shravanthi02/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shravanthi02/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shravanthi02/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
