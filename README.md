@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shravanthi02/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shravanthi02/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shravanthi02/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Shravanthi02/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Shravanthi02/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shravanthi02/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shravanthi02/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Shravanthi02/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Game Theory
 |  |
 | ------- |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shravanthi02/leetcode/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Shravanthi02/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
